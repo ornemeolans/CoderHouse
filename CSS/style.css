@@ -8,23 +8,15 @@ body{
     font-family: 'Rubik', sans-serif;
 }
 
-header{
-    width: 100%;
-    height: 100px;
+.fondo{
     background-color: #5e5e5e;
 }
 
-.subheader{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: row-reverse;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items:center;
+navbar-nav {
+    font-family: 'Rubik', sans-serif;
 }
 
-nav a{
+a{
     font-style: bold;
     font-size: 20px;
     color: #ffffff;
