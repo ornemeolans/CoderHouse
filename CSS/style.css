@@ -13,6 +13,10 @@ body{
     background-color: #5e5e5e;
 }
 
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #ffffff;
+}
+
 navbar-nav {
     font-family: 'Rubik', sans-serif;
 }
